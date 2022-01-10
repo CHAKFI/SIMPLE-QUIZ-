@@ -1,7 +1,7 @@
 # SIMPLE-QUIZ-
 This is a simple quizz which can give user login/register session, then consult to the Quiz interface.
 
-![](https://www.fresubin.com/co/sites/default/files/styles/hero_image_xl/public/2020-02/Scientific_Backround_Picture-ST_1.jpg?itok=VvsEoW2l)
+![](https://fpt.usmba.ac.ma/examen/FPT.png)
 
 
 > By [CHAKFI Ahmed](https://www.linkedin.com/in/chakfi-ahmed/)
