@@ -1,5 +1,5 @@
 # SIMPLE-QUIZ-
-This is a simple quizz which can give user login/register session, then consult to the Quiz interface.
+This is a simple quizz which can ask user for login/register session, then consult to the Quiz interface.
 
 ![](https://fpt.usmba.ac.ma/examen/FPT.png)
 
