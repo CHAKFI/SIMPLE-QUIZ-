@@ -1,0 +1,37 @@
+{
+  "question": [
+    "Q1. Quel est le president actuel du Maroc?",
+    "Q2. Que signifie SIM Master de la FP TAZA?",
+    "Q3. Choisir la bonne reponse:",
+    "Q4. La Matrice centree reduite est definit par:"
+  ],
+  "answer": [
+    3,
+    3,
+    2,
+    1
+  ],
+  "options": [
+
+    ["CHABAT HAMID",
+      "BENKIRAN ABDELILAH",
+      "AKHENOCH AZIZ",
+      "LECHGAR Ahmed"
+    ],
+    ["Systemes Informatiques et Mecaniques",
+      "Systemes Intelligents et Mecatroniques",
+      "Systemes Intelligents et Mobiles",
+      "Aucune reponse "
+    ],
+    ["C# fait partie de cette formation",
+      "Python est utilise dans DATA SCIENCE",
+      "Big Data fait partie de cette formation",
+      "Pas de reponse"
+    ],
+    ["Mcr = Mc / ect",
+      "Mcr = Mc / (var * ect)",
+      "Mcr =  1/2 * ( Mc / Cov(x,y) )",
+      "Mcr = X - (Mc / ect)"
+    ]
+  ]
+}
