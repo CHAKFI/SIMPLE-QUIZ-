@@ -19,20 +19,26 @@ This is a simple quizz which can give user login/register session, then consult 
 
 
 ## Screenshot:
+ > Session user : 
+ 
+ ![image](https://raw.githubusercontent.com/CHAKFI/SIMPLE-QUIZ-/main/Session.JPG)
 
  > Login Interface :
  
-![image](https://user-images.githubusercontent.com/36175107/120848679-fefc0080-c56c-11eb-9d77-6b6ee3a20e3f.png)
+![image](https://raw.githubusercontent.com/CHAKFI/SIMPLE-QUIZ-/main/Login.JPG)
 
  > Register Interface :
  
-![image](https://user-images.githubusercontent.com/36175107/120848679-fefc0080-c56c-11eb-9d77-6b6ee3a20e3f.png)
+![image](https://github.com/CHAKFI/SIMPLE-QUIZ-/blob/main/Register.JPG)
 
  > 1st Quizz Interface : 
 
-![image](https://user-images.githubusercontent.com/36175107/120897155-aab05980-c61c-11eb-84ae-d3e7f4354e97.png)
+![image](https://raw.githubusercontent.com/CHAKFI/SIMPLE-QUIZ-/main/1.JPG)
 
  > 2d Quizz Interface :
 
-![image](https://user-images.githubusercontent.com/36175107/120848679-fefc0080-c56c-11eb-9d77-6b6ee3a20e3f.png)
+![image](https://raw.githubusercontent.com/CHAKFI/SIMPLE-QUIZ-/main/2.JPG)
+
  > 3th Quizz Interface :
+
+![image](https://raw.githubusercontent.com/CHAKFI/SIMPLE-QUIZ-/main/3.JPG)
